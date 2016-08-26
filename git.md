@@ -10,7 +10,6 @@ usemathjax:
 date: 2016年08月25日
 
 
-
 [slide]
 
 # Git 大法 
@@ -127,6 +126,28 @@ date: 2016年08月25日
 ![](/images/git-reset.jpg)
 
 
+[slide]
+
+# stash 
+---
+
+``` git stash save "取一个名字" ```
+
+<br>
+
+``` git stash list ```
+
+<br>
+
+![](/images/git-stash-list.jpg)
+
+<br>
+
+``` git stash pop ```
+
+<br>
+
+![](/images/git-stash-pop.jpg)
 [slide]
 # 状态 
 
